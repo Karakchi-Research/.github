@@ -31,7 +31,6 @@ If you're new here:
 
 For general inquiries, please contact:
 - **Rasha Elham Karakchi**
-- **karakchi@cec.sc.edu**
 - **Molinaroli College of Engineering and Computing**
 - **University of South Carolina**
 
