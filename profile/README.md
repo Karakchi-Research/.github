@@ -1,20 +1,12 @@
-# 👩‍🔬 Research Organization
+# 👩‍🔬 Karakchi Research Organization
 
 Welcome to the official GitHub organization for research projects affiliated with **Dr. Rasha Karakchi** at the **University of South Carolina**.
-
-This organization serves as a centralized hub for student-led research, collaboration, and project development.
 
 ---
 
 ## 📌 About
 
-This organization hosts repositories for:
-- Undergraduate and graduate research projects
-- Independent studies and capstones
-- Collaborative lab initiatives
-- Experimental and exploratory work
-
-Each repository is maintained by its respective contributors, with guidance from faculty and research advisors.
+This organization serves as a centralized hub for student-led research, collaboration, and project development. Each repository is maintained by its respective contributors, with guidance from faculty and research advisors.
 
 ---
 
@@ -23,8 +15,7 @@ Each repository is maintained by its respective contributors, with guidance from
 If you're new here:
 
 1. Browse repositories to explore ongoing projects  
-2. Check individual repository READMEs for setup instructions and documentation  
-3. Follow contribution guidelines if you’d like to get involved  
+2. Check individual repository READMEs for setup instructions and documentation
 
 ---
 
@@ -36,20 +27,11 @@ If you're new here:
 
 ---
 
-## 🤝 Contributing
-
-Contribution policies may vary by repository. To contribute:
-
-- Review the specific repository's contribution guidelines  
-- Open issues to discuss ideas or report bugs  
-- Submit pull requests where appropriate  
-
----
-
 ## 📬 Contact
 
 For general inquiries, please contact:
 - **Rasha Elham Karakchi**
+- **karakchi@cec.sc.edu**
 - **Molinaroli College of Engineering and Computing**
 - **University of South Carolina**
 
