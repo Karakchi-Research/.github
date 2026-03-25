@@ -1,6 +1,6 @@
 # 👩‍🔬 Research Organization
 
-Welcome to the official GitHub organization for research projects affiliated with **[Advisor Name]** at the **University of South Carolina**.
+Welcome to the official GitHub organization for research projects affiliated with **Dr. Rasha Karakchi** at the **University of South Carolina**.
 
 This organization serves as a centralized hub for student-led research, collaboration, and project development.
 
@@ -49,8 +49,8 @@ Contribution policies may vary by repository. To contribute:
 ## 📬 Contact
 
 For general inquiries, please contact:
-- **[Advisor Name]**
-- **[Department / Lab Name]**
+- **Rasha Elham Karakchi**
+- **Molinaroli College of Engineering and Computing**
 - **University of South Carolina**
 
 ---
