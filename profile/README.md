@@ -19,6 +19,18 @@ If you're new here:
 
 ---
 
+## 🤝 Contributing
+
+If you're an undergraduate or graduate research assistant working with **Dr. Karakchi** and would like to feature your work in this organization, please reach out using the contact information below to be added as a member.
+
+Once you have access, follow these steps:
+
+1. Import the personal repository where your project is currently hosted  
+2. Update the repository’s description, topics, releases, and any other relevant metadata  
+3. *(Optional)* Archive your personal repository and include a note in its README directing users to the organization version
+
+---
+
 ## 🗂 Organization Structure
 
 - Each project is maintained in its own repository  
@@ -30,10 +42,22 @@ If you're new here:
 ## 📬 Contact
 
 For general inquiries, please contact:
-> **Rasha Elham Karakchi**<br>
-> karakchi@cec.sc.edu<br>
-> Molinaroli College of Engineering and Computing<br>
-> University of South Carolina
+
+<table>
+  <tr>
+    <td>
+      <img src="https://sc.edu/study/colleges_schools/engineering_and_computing/images/headshots/rasha_karakchi_255.jpg"
+           alt="Portrait of Dr. Karakchi"
+           width="200">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <strong>Rasha Elham Karakchi</strong><br>
+      <a href="mailto:karakchi@cec.sc.edu">karakchi@cec.sc.edu</a><br>
+      Molinaroli College of Engineering and Computing<br>
+      University of South Carolina
+    </td>
+  </tr>
+</table>
 
 ---
 
