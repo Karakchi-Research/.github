@@ -23,12 +23,12 @@ Choose a year to browse the collection. Each title opens the full PDF in a separ
 
 | Work | Contributors | Venue / format |
 | --- | --- | --- |
-| <a href="posters/nishant_idetc-cie_multimodal-fusion_2026.pdf" target="_blank">Lightweight Multimodal Fusion for Real-Time Cybersecurity of Optical and Thermal In-Situ Monitoring Signals in Metal Additive Manufacturing</a> | Nishant Chinnasami · Rye Stahle-Smith · Zaki Bushiri · Mumin Adhami · Austin R. J. Downey · Lang Yuang · Rasha Karakchi | IDETC-CIE |
-| <a href="posters/nishant_research-poster_multimodal-fusion_2026.pdf" target="_blank">Lightweight Multimodal Fusion for Real-Time Cybersecurity of Optical and Thermal In-Situ Monitoring Signals in Metal Additive Manufacturing</a> | Nishant Chinnasami · Rye Stahle-Smith · Zaki Bushiri · Mumin Adhami · Austin R. J. Downey · Lang Yang · Rasha Karakchi | Research poster |
-| <a href="posters/trotter_smasis_high-rate-state-estimation_2026.pdf" target="_blank">High-Rate State Estimation of a Printed Circuit Board Under Shock Using an FPGA-Deployed Neural Network</a> | Trotter Roberts · Joud N. Satme · Tiffany Yu · Austin R. J. Downey · Rasha E. Karakchi · Jason D. Bakos | SMASIS |
-| <a href="posters/carter_research-poster_fpga-trojan-localization_2026.pdf" target="_blank">Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams</a> | Carter Antley · Rasha Karakchi | Research poster |
-| <a href="posters/carter_research-paper_fpga-trojan-localization_2026.pdf" target="_blank">Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams</a> | Carter Antley · Rasha Karakchi | Research paper |
-| <a href="posters/vito_sc26_2026.pdf" target="_blank">EdgeBench: Lightweight Preprocessing and Streaming Ingestion</a> | Vito Spatafora | SC26 |
+| <a href="posters/nishant_idetc-cie_multimodal-fusion_2026.pdf" target="_blank" rel="noopener noreferrer">Lightweight Multimodal Fusion for Real-Time Cybersecurity of Optical and Thermal In-Situ Monitoring Signals in Metal Additive Manufacturing</a> | Nishant Chinnasami · Rye Stahle-Smith · Zaki Bushiri · Mumin Adhami · Austin R. J. Downey · Lang Yuang · Rasha Karakchi | IDETC-CIE |
+| <a href="posters/nishant_research-poster_multimodal-fusion_2026.pdf" target="_blank" rel="noopener noreferrer">Lightweight Multimodal Fusion for Real-Time Cybersecurity of Optical and Thermal In-Situ Monitoring Signals in Metal Additive Manufacturing</a> | Nishant Chinnasami · Rye Stahle-Smith · Zaki Bushiri · Mumin Adhami · Austin R. J. Downey · Lang Yang · Rasha Karakchi | Research poster |
+| <a href="posters/trotter_smasis_high-rate-state-estimation_2026.pdf" target="_blank" rel="noopener noreferrer">High-Rate State Estimation of a Printed Circuit Board Under Shock Using an FPGA-Deployed Neural Network</a> | Trotter Roberts · Joud N. Satme · Tiffany Yu · Austin R. J. Downey · Rasha E. Karakchi · Jason D. Bakos | SMASIS |
+| <a href="posters/carter_research-poster_fpga-trojan-localization_2026.pdf" target="_blank" rel="noopener noreferrer">Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams</a> | Carter Antley · Rasha Karakchi | Research poster |
+| <a href="posters/carter_research-paper_fpga-trojan-localization_2026.pdf" target="_blank" rel="noopener noreferrer">Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams</a> | Carter Antley · Rasha Karakchi | Research paper |
+| <a href="posters/vito_sc26_2026.pdf" target="_blank" rel="noopener noreferrer">EdgeBench: Lightweight Preprocessing and Streaming Ingestion</a> | Vito Spatafora | SC26 |
 </details>
 
 <details>
