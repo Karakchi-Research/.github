@@ -1,46 +1,69 @@
 <h1 align="center">Karakchi Research</h1>
-<p align="center"><strong>Embedded Security · Hardware Assurance · Intelligent Systems</strong><br>University of South Carolina · Advised by Dr. Rasha Karakchi</p>
+
+<p align="center"><strong>Embedded Security · Hardware Assurance · Intelligent Systems</strong><br>University of South Carolina</p>
+
 <p align="center"><a href="#research-library">Research library</a> · <a href="mailto:karakchi@cec.sc.edu">Collaborate with us</a></p>
 
-> Student-led research in trustworthy embedded systems, FPGA security, intelligent computing, and resilient hardware.
+> Student-led work in trustworthy embedded systems, FPGA security, intelligent computing, and resilient hardware.
 
 ## Research focus
+
 | Area | Research themes |
-|---|---|
-| Hardware & embedded security | FPGA, PYNQ, secure boot, bitstream integrity, side-channel defense |
+| --- | --- |
+| Hardware & embedded security | FPGA assurance, bitstream integrity, secure boot, side-channel defense |
 | Intelligent systems | Machine learning, anomaly detection, edge AI, SNN accelerators |
-| Cryptography | AES monitoring, quantum key distribution, resilient computation |
+| Cryptography | Secure authentication, QKD monitoring, resilient computation |
 
 ## Research library
-Select a year to explore posters and papers. Every title opens the full work.
 
-<details><summary><strong>2026</strong> · 1 publication</summary>
+Choose a year to browse the collection. Each title opens the full PDF in a separate tab.
 
-- [EdgeBench: Lightweight Preprocessing and Streaming Ingestion](posters/vito_sc26_2026.md) — Vito Spatafora · SC26
+<details open>
+<summary><strong>2026</strong> · 6 works</summary>
+
+| Work | Contributors | Venue / format |
+| --- | --- | --- |
+| <a href="posters/nishant_idetc-cie_multimodal-fusion_2026.pdf" target="_blank">Lightweight Multimodal Fusion for Real-Time Cybersecurity of Optical and Thermal In-Situ Monitoring Signals in Metal Additive Manufacturing</a> | Nishant Chinnasami · Rye Stahle-Smith · Zaki Bushiri · Mumin Adhami · Austin R. J. Downey · Lang Yuang · Rasha Karakchi | IDETC-CIE |
+| <a href="posters/nishant_research-poster_multimodal-fusion_2026.pdf" target="_blank">Lightweight Multimodal Fusion for Real-Time Cybersecurity of Optical and Thermal In-Situ Monitoring Signals in Metal Additive Manufacturing</a> | Nishant Chinnasami · Rye Stahle-Smith · Zaki Bushiri · Mumin Adhami · Austin R. J. Downey · Lang Yang · Rasha Karakchi | Research poster |
+| <a href="posters/trotter_smasis_high-rate-state-estimation_2026.pdf" target="_blank">High-Rate State Estimation of a Printed Circuit Board Under Shock Using an FPGA-Deployed Neural Network</a> | Trotter Roberts · Joud N. Satme · Tiffany Yu · Austin R. J. Downey · Rasha E. Karakchi · Jason D. Bakos | SMASIS |
+| <a href="posters/carter_research-poster_fpga-trojan-localization_2026.pdf" target="_blank">Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams</a> | Carter Antley · Rasha Karakchi | Research poster |
+| <a href="posters/carter_research-paper_fpga-trojan-localization_2026.pdf" target="_blank">Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams</a> | Carter Antley · Rasha Karakchi | Research paper |
+| <a href="posters/vito_sc26_2026.pdf" target="_blank">EdgeBench: Lightweight Preprocessing and Streaming Ingestion</a> | Vito Spatafora | SC26 |
 </details>
 
-<details><summary><strong>2025</strong> · 6 publications</summary>
+<details>
+<summary><strong>2025</strong> · 6 works</summary>
 
-- [Hybrid Cryptographic Monitoring System](posters/nishant_acm_2025.md) · SEC
-- [Real-time ML-based Defense](posters/rye_sc25_real-time-ml-defense_2025.md) · SC25
-- [Hybrid Monitoring for Side-Channel Security](posters/nishant_discoverusc_hybrid-monitoring_2025.md) · Discover USC
-- [Secure Authentication Challenges](posters/nishant_discoverusc_secure-authentication_2025.md) · Discover USC
-- [Anomaly Detection in BB84 QKD](posters/nishant_summer-symposium_bb84-anomaly-detection_2025.md) · McNair
-- [ML-Based FPGA Bitstream Detection](posters/rye_summer-symposium_fpga-malware-detection_2025.md) · McNair
+| Work | Contributor | Venue |
+| --- | --- | --- |
+| <a href="posters/nishant_acm_2025.pdf" target="_blank">Hybrid Cryptographic Monitoring System</a> | Nishant Chinnasami | SEC |
+| <a href="posters/rye_sc25_real-time-ml-defense_2025.pdf" target="_blank">Real-Time ML-Based Defense</a> | Rye Stahle-Smith | SC25 |
+| <a href="posters/nishant_discoverusc_hybrid-monitoring_2025.pdf" target="_blank">Hybrid Monitoring for Side-Channel Security</a> | Nishant Chinnasami | Discover USC |
+| <a href="posters/nishant_discoverusc_secure-authentication_2025.pdf" target="_blank">Secure Authentication Challenges</a> | Nishant Chinnasami | Discover USC |
+| <a href="posters/nishant_summer-symposium_bb84-anomaly-detection_2025.pdf" target="_blank">Anomaly Detection in BB84 QKD</a> | Nishant Chinnasami | McNair |
+| <a href="posters/rye_summer-symposium_fpga-malware-detection_2025.pdf" target="_blank">ML-Based FPGA Bitstream Detection</a> | Rye Stahle-Smith | McNair |
 </details>
 
-<details><summary><strong>2024</strong> · 4 publications</summary>
+<details>
+<summary><strong>2024</strong> · 5 works</summary>
 
-- [Scored NFA Processor](posters/ryan_sc24_2024.md) · SC24 · [Paper](posters/ryan_sc24_paper_2024.pdf)
-- [Self-Explanatory Transformer](posters/karakchi_ryan_sec_self-explanatory-transformer_2024.pdf) · SEC
-- [Hierarchical BRAM/URAM Buffer for SNN](posters/karakchi_icmi_hierarchical-bram-uram-buffer-snn_2024.pdf) · ICMI
-- [Scratchpad SNN Accelerator](posters/karakchi_icmi_scratchpad-snn-accelerator_2024.pdf) · ICMI
+| Work | Contributors | Venue / format |
+| --- | --- | --- |
+| <a href="posters/ryan_sc24_scored-nfa-processor_2024.pdf" target="_blank">Scored Non-Deterministic Finite Automata Processor for Sequence Alignment</a> | Ryan Karbowniczak · Rasha Karakchi | SC24 poster |
+| <a href="posters/ryan_sc24_scored-nfa-processor-paper_2024.pdf" target="_blank">A Scored Non-Deterministic Finite Automata Processor for Sequence Alignment</a> | Ryan Karbowniczak · Rasha Karakchi | SC24 paper |
+| <a href="posters/ryan_sec_self-explanatory-transformer_2024.pdf" target="_blank">Developing a Self-Explanatory Transformer</a> | Rasha Karakchi · Ryan Karbowniczak | SEC |
+| <a href="posters/rasha_icmi_hierarchical-bram-uram-buffer-snn_2024.pdf" target="_blank">A Hierarchical BRAM/URAM Buffer for SNN</a> | Rasha Karakchi | ICMI |
+| <a href="posters/rasha_icmi_scratchpad-snn-accelerator_2024.pdf" target="_blank">A Scratchpad Spiking Neural Network Accelerator</a> | Rasha Karakchi | ICMI |
 </details>
 
-<details><summary><strong>2023</strong> · 1 publication</summary>
+<details>
+<summary><strong>2023</strong> · 1 work</summary>
 
-- [Introduction to Neural Networks: Digit Recognition](posters/noah_mcnair_2023.md) · Noah Robertson · McNair Junior Fellows
+| Work | Contributor | Venue |
+| --- | --- | --- |
+| <a href="posters/noah_mcnair_2023.pdf" target="_blank">Introduction to Neural Networks: Digit Recognition</a> | Noah Robertson | McNair Junior Fellows |
 </details>
 
 ## Collaborate with us
+
 We welcome student researchers interested in hardware security, machine learning, cryptography, and dependable systems. <a href="mailto:karakchi@cec.sc.edu">Contact Dr. Karakchi</a>.
