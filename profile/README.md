@@ -28,7 +28,7 @@ Choose a year to browse the collection. Each title opens the full PDF in a separ
 | <a href="posters/trotter_smasis_high-rate-state-estimation_2026.pdf" target="_blank" rel="noopener noreferrer">High-Rate State Estimation of a Printed Circuit Board Under Shock Using an FPGA-Deployed Neural Network</a> | Trotter Roberts · Joud N. Satme · Tiffany Yu · Austin R. J. Downey · Rasha E. Karakchi · Jason D. Bakos | SMASIS Paper |
 | <a href="posters/carter_research-poster_fpga-trojan-localization_2026.pdf" target="_blank" rel="noopener noreferrer">Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams</a> | Carter Antley · Rasha Karakchi | SC'26 poster |
 | <a href="posters/carter_research-paper_fpga-trojan-localization_2026.pdf" target="_blank" rel="noopener noreferrer">Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams</a> | Carter Antley · Rasha Karakchi | SC'25 paper |
-| <a href="posters/vito_sc26_2026.pdf" target="_blank" rel="noopener noreferrer">EdgeBench: Lightweight Preprocessing and Streaming Ingestion</a> | Vito Spatafora | SC26 |
+| <a href="posters/vito_sc26_2026.pdf" target="_blank" rel="noopener noreferrer">EdgeBench: Lightweight Preprocessing and Streaming Ingestion</a> | Vito Spatafora | SC26 Poster|
 </details>
 
 <details>
