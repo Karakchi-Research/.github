@@ -29,8 +29,7 @@ Choose a year to browse the collection. Each title opens the full PDF in a separ
 | <a href="posters/carter_research-poster_fpga-trojan-localization_2026.pdf" target="_blank" rel="noopener noreferrer">Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams</a> | Carter Antley · Rasha Karakchi | SC'26 poster |
 | <a href="posters/carter_research-paper_fpga-trojan-localization_2026.pdf" target="_blank" rel="noopener noreferrer">Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams</a> | Carter Antley · Rasha Karakchi | SC'25 paper |
 | <a href="posters/vito_sc26_2026.pdf" target="_blank" rel="noopener noreferrer">EdgeBench: Lightweight Preprocessing and Streaming Ingestion</a> | Vito Spatafora | SC26 Poster|
-| <a href="posters/VitoSC26 (1).pdf" target="_blank" rel="noopener noreferrer">EdgeBench: A Lightweight Preprocessing and Streaming Ingestion Framework
-for Edge AI Pipelines</a> | Vito Spatafora | SC26 Paper|
+| <a href="posters/VitoPaper.pdf" target="_blank" rel="noopener noreferrer">EdgeBench: A Lightweight Preprocessing and Streaming Ingestion Framework for Edge AI Pipelines</a> | Vito Spatafora | SC26 Paper|
 </details>
 
 <details>
