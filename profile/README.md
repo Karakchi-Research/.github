@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Embedded Security · Hardware Assurance · Intelligent Systems</strong><br>University of South Carolina</p>
 
-<p align="center"><a href="#research-library">Research library</a> · <a href="people.md">Research people</a> · <a href="mailto:karakchi@cec.sc.edu">Collaborate with us</a></p>
+<p align="center"><a href="#research-library">Research library</a> · <a href="people.md">Research people</a> · <a href="https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php">Dr. Karakchi’s USC profile</a> · <a href="mailto:karakchi@cec.sc.edu">Collaborate with us</a></p>
 
 > Student-led research in trustworthy embedded systems, FPGA security, intelligent computing, cryptography, and resilient hardware.
 
@@ -73,4 +73,3 @@ Browse by year. Select any title to open the full PDF.
 ## Collaborate with us
 
 We welcome student researchers interested in hardware security, machine learning, cryptography, and dependable systems. [Contact Dr. Karakchi](mailto:karakchi@cec.sc.edu).
-
