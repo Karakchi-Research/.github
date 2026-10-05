@@ -8,7 +8,7 @@ This page highlights the students, researchers, and faculty represented in the K
 | --- | --- | --- | --- | --- |
 | <img src="https://unavatar.io/linkedin/tyu05" alt="Tiffany Yu" width="96" height="96"> | **Tiffany Yu** | Computer science · intelligent hardware | Automata optimization, LabVIEW FPGA, MLP acceleration, computational-hardware security | [Profile](https://www.linkedin.com/in/tyu05) |
 | <img src="https://unavatar.io/linkedin/rye-stahle-smith" alt="Rye Stahle-Smith" width="96" height="96"> | **Rye Stahle-Smith** | Embedded security · ML systems | FPGA malware detection, real-time ML defense, automata simplification, multimodal monitoring | [Profile](https://www.linkedin.com/in/rye-stahle-smith) |
-| <img src="https://unavatar.io/linkedin/joudsatme" alt="Joud N. Satme" width="96" height="96"> | **Joud N. Satme** | FPGA systems · neural acceleration | High-rate PCB state estimation; LabVIEW FPGA analysis | [Profile](https://www.linkedin.com/in/joudsatme) |
+| — | **Joud N. Satme** | FPGA systems · neural acceleration | High-rate PCB state estimation; LabVIEW FPGA analysis | — |
 | <img src="https://unavatar.io/linkedin/trotter-roberts" alt="Trotter Roberts" width="96" height="96"> | **Trotter Roberts** | FPGA systems · state estimation | High-rate PCB state estimation; LabVIEW FPGA analysis | [Profile](https://www.linkedin.com/in/trotter-roberts) |
 | <img src="https://unavatar.io/linkedin/nishantchinnasami" alt="Nishant Chinnasami" width="96" height="96"> | **Nishant Chinnasami** | Cryptography · cyber-physical monitoring | Hybrid cryptographic monitoring, side-channel security, QKD anomaly detection, additive-manufacturing security | [Profile](https://www.linkedin.com/in/nishantchinnasami) |
 | <img src="https://unavatar.io/linkedin/carter-antley" alt="Carter Antley" width="96" height="96"> | **Carter Antley** | Hardware security | Trustworthy FPGA Trojan localization from configuration bitstreams | [Profile](https://www.linkedin.com/in/carter-antley) |
@@ -24,7 +24,7 @@ This page highlights the students, researchers, and faculty represented in the K
 
 | Photo | Person | Role | Research represented | LinkedIn |
 | --- | --- | --- | --- | --- |
-| <img src="people/rasha-karakchi.jpg" alt="Rasha Karakchi" width="96" height="96"> | **Rasha Elham Karakchi** | Faculty lead · Karakchi Research | Hardware security, intelligent systems, FPGA acceleration, cryptography | [Profile](https://www.linkedin.com/in/rasha-karakchi-417756162) |
+| <img src="people/rasha-karakchi.jpg" alt="Rasha Karakchi" width="96" height="96"> | **Rasha Elham Karakchi** | Faculty lead · Karakchi Research | Hardware security, intelligent systems, FPGA acceleration, cryptography | [USC faculty profile](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php) |
 | <img src="people/austin-downey.jpg" alt="Austin Downey" width="96" height="96"> | **Austin R. J. Downey** | Faculty collaborator · ARTS Lab | FPGA systems, real-time sensing, neural acceleration, hardware/software co-design | [Profile](https://www.linkedin.com/in/austin-r-j-downey-991b9259) |
 
 Faculty photos are official USC images; student photos are displayed through public LinkedIn profile avatars. All photos use a consistent 96 × 96 presentation size.
