@@ -10,14 +10,14 @@ This page highlights the students, researchers, and faculty represented in the K
 | **Rye Stahle-Smith** | Embedded security · ML systems | FPGA malware detection, real-time ML defense, automata simplification, multimodal monitoring | [Profile](https://www.linkedin.com/in/rye-stahle-smith) |
 | **Joud N. Satme** | FPGA systems · neural acceleration | High-rate PCB state estimation; LabVIEW FPGA analysis | [Profile](https://www.linkedin.com/in/joudsatme) |
 | **Trotter Roberts** | FPGA systems · state estimation | High-rate PCB state estimation; LabVIEW FPGA analysis | [Profile](https://www.linkedin.com/in/trotter-roberts) |
-| **Nishant Chinnasami** | Cryptography · cyber-physical monitoring | Hybrid cryptographic monitoring, side-channel security, QKD anomaly detection, additive-manufacturing security | — |
-| **Carter Antley** | Hardware security | Trustworthy FPGA Trojan localization from configuration bitstreams | — |
-| **Ryan Karbowniczak** | Intelligent systems · accelerators | Scored NFA processing and self-explanatory transformer research | — |
-| **Noah Robertson** | Machine learning | Neural-network digit recognition | — |
-| **Vito Spatafora** | Edge AI systems | EdgeBench preprocessing and streaming ingestion | — |
-| **Zaki Bushiri** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | — |
-| **Mumin Adhami** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | — |
-| **Lang Yang / Lang Yuang** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | — |
+| **Nishant Chinnasami** | Cryptography · cyber-physical monitoring | Hybrid cryptographic monitoring, side-channel security, QKD anomaly detection, additive-manufacturing security | [Profile](https://www.linkedin.com/in/nishantchinnasami) |
+| **Carter Antley** | Hardware security | Trustworthy FPGA Trojan localization from configuration bitstreams | [Profile](https://www.linkedin.com/in/carter-antley) |
+| **Ryan Karbowniczak** | Intelligent systems · accelerators | Scored NFA processing and self-explanatory transformer research | [Profile](https://www.linkedin.com/in/ryan-karbowniczak-2b6158224) |
+| **Noah Robertson** | Machine learning | Neural-network digit recognition | [Profile](https://www.linkedin.com/in/noah-robertson-330331211) |
+| **Vito Spatafora** | Edge AI systems | EdgeBench preprocessing and streaming ingestion | [Profile](https://www.linkedin.com/in/vito-spatafora) |
+| **Zaki Bushiri** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/zakibushiri) |
+| **Mumin Adhami** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/mumin-adhami) |
+| **Lang Yuan** *(listed as “Lang Yang/Yuang” on some materials)* | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/layuan) |
 | **Jason D. Bakos** | Computer architecture | High-rate PCB state estimation | — |
 
 ## Faculty and research leadership
@@ -30,4 +30,3 @@ This page highlights the students, researchers, and faculty represented in the K
 ## Browse their work
 
 Return to the [research library](README.md) to browse every poster and paper by year. Each entry opens the complete source PDF.
-
