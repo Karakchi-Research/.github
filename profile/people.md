@@ -22,10 +22,12 @@ This page highlights the students, researchers, and faculty represented in the K
 
 ## Faculty and research leadership
 
-| Person | Role | Research represented | LinkedIn |
-| --- | --- | --- | --- |
-| **Rasha Elham Karakchi** | Faculty lead · Karakchi Research | Hardware security, intelligent systems, FPGA acceleration, cryptography | [Profile](https://www.linkedin.com/in/rasha-karakchi-417756162) |
-| **Austin R. J. Downey** | Faculty collaborator · ARTS Lab | FPGA systems, real-time sensing, neural acceleration, hardware/software co-design | [Profile](https://www.linkedin.com/in/austin-r-j-downey-991b9259) |
+| Photo | Person | Role | Research represented | LinkedIn |
+| --- | --- | --- | --- | --- |
+| <img src="people/rasha-karakchi.jpg" alt="Rasha Karakchi" width="120"> | **Rasha Elham Karakchi** | Faculty lead · Karakchi Research | Hardware security, intelligent systems, FPGA acceleration, cryptography | [Profile](https://www.linkedin.com/in/rasha-karakchi-417756162) |
+| <img src="people/austin-downey.jpg" alt="Austin Downey" width="120"> | **Austin R. J. Downey** | Faculty collaborator · ARTS Lab | FPGA systems, real-time sensing, neural acceleration, hardware/software co-design | [Profile](https://www.linkedin.com/in/austin-r-j-downey-991b9259) |
+
+Photos above are official USC images. Student headshots can be added in the same format when the researchers provide or approve them.
 
 ## Browse their work
 
