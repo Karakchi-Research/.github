@@ -24,10 +24,10 @@ This page highlights the students, researchers, and faculty represented in the K
 
 | Photo | Person | Role | Research represented | LinkedIn |
 | --- | --- | --- | --- | --- |
-| <img src="https://unavatar.io/linkedin/rasha-karakchi-417756162" alt="Rasha Karakchi" width="96" height="96"> | **Rasha Elham Karakchi** | Faculty lead · Karakchi Research | Hardware security, intelligent systems, FPGA acceleration, cryptography | [Profile](https://www.linkedin.com/in/rasha-karakchi-417756162) |
-| <img src="https://unavatar.io/linkedin/austin-r-j-downey-991b9259" alt="Austin Downey" width="96" height="96"> | **Austin R. J. Downey** | Faculty collaborator · ARTS Lab | FPGA systems, real-time sensing, neural acceleration, hardware/software co-design | [Profile](https://www.linkedin.com/in/austin-r-j-downey-991b9259) |
+| <img src="people/rasha-karakchi.jpg" alt="Rasha Karakchi" width="96" height="96"> | **Rasha Elham Karakchi** | Faculty lead · Karakchi Research | Hardware security, intelligent systems, FPGA acceleration, cryptography | [Profile](https://www.linkedin.com/in/rasha-karakchi-417756162) |
+| <img src="people/austin-downey.jpg" alt="Austin Downey" width="96" height="96"> | **Austin R. J. Downey** | Faculty collaborator · ARTS Lab | FPGA systems, real-time sensing, neural acceleration, hardware/software co-design | [Profile](https://www.linkedin.com/in/austin-r-j-downey-991b9259) |
 
-Photos are displayed at a consistent 96 × 96 size through public LinkedIn profile avatars. The two official USC image files remain in the repository as a stable fallback.
+Faculty photos are official USC images; student photos are displayed through public LinkedIn profile avatars. All photos use a consistent 96 × 96 presentation size.
 
 ## Browse their work
 
