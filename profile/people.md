@@ -25,7 +25,7 @@ This page highlights the students, researchers, and faculty represented in the K
 | Photo | Person | Role | Research represented | LinkedIn |
 | --- | --- | --- | --- | --- |
 | <img src="people/rasha-karakchi.jpg" alt="Rasha Karakchi" width="96" height="96"> | **Rasha Elham Karakchi** | Faculty lead · Karakchi Research | Hardware security, intelligent systems, FPGA acceleration, cryptography | [USC faculty profile](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php) |
-| <img src="people/austin-downey.jpg" alt="Austin Downey" width="96" height="96"> | **Austin R. J. Downey** | Faculty collaborator · ARTS Lab | FPGA systems, real-time sensing, neural acceleration, hardware/software co-design | [Profile](https://www.linkedin.com/in/austin-r-j-downey-991b9259) |
+| <img src="people/austin-downey.jpg" alt="Austin Downey" width="96" height="96"> | **Austin R. J. Downey** | Faculty collaborator · ARTS Lab | FPGA systems, real-time sensing, neural acceleration, hardware/software co-design | [USC faculty profile](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/austin_downey.php) |
 
 Faculty photos are official USC images; student photos are displayed through public LinkedIn profile avatars. All photos use a consistent 96 × 96 presentation size.
 
