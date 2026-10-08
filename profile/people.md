@@ -12,8 +12,10 @@
 | <img src="https://unavatar.io/linkedin/noah-robertson-330331211" alt="Noah Robertson" width="96" height="96"> | **Noah Robertson** | Machine learning | Neural-network digit recognition | [Profile](https://www.linkedin.com/in/noah-robertson-330331211) |
 | <img src="https://unavatar.io/linkedin/vito-spatafora" alt="Vito Spatafora" width="96" height="96"> | **Vito Spatafora** | Edge AI systems | EdgeBench preprocessing and streaming ingestion | [Profile](https://www.linkedin.com/in/vito-spatafora) |
 | <img src="https://unavatar.io/linkedin/zakibushiri" alt="Zaki Bushiri" width="96" height="96"> | **Zaki Bushiri** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/zakibushiri) |
-| <img src="https://unavatar.io/linkedin/ledarssan/" alt="Darssan Eswaramoorthi" width="96" height="96"> | **Darssan Eswaramoorthi** | Artificial Intelligence | Reconfigurable Computing | [Profile](https://www.linkedin.com/in/ledarssan/) |
+| <img src="https://unavatar.io/linkedin/ledarssan/" alt="Darssan L. Eswaramoorthi" width="96" height="96"> | **Darssan L. Eswaramoorthi** | Artificial Intelligence | Reconfigurable Computing | [Profile](https://www.linkedin.com/in/ledarssan/) |
 | <img src="https://unavatar.io/linkedin/jacob-frierson-194139399" alt="Jacob Frierson" width="96" height="96"> | **Jacob Frierson** | Neural Network | Reconfigurable Computing | [Profile](https://www.linkedin.com/in/jacob-frierson-194139399/) |
+| — | **Malachi Hill** | Research contributor | Summer research team | — |
+| — | **Isaiah Impson** | Research contributor | Summer research team | — |
 
 ## Faculty and research leadership
 

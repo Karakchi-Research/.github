@@ -23,14 +23,14 @@ Browse by year. Select any title to open the full PDF.
 
 | Work | Contributors | Venue / format |
 | --- | --- | --- |
-| [Lightweight Multimodal Fusion for Real-Time Cybersecurity of Optical and Thermal In-Situ Monitoring Signals in Metal Additive Manufacturing](posters/nishant_idetc-cie_multimodal-fusion_2026.pdf) | Nishant Chinnasami · Rye Stahle-Smith · Zaki Bushiri · Mumin Adhami · Austin R. J. Downey · Lang Yuang · Rasha Karakchi | IDETC-CIE paper |
-| [Lightweight Multimodal Fusion for Real-Time Cybersecurity of Optical and Thermal In-Situ Monitoring Signals in Metal Additive Manufacturing](posters/nishant_research-poster_multimodal-fusion_2026.pdf) | Nishant Chinnasami · Rye Stahle-Smith · Zaki Bushiri · Mumin Adhami · Austin R. J. Downey · Lang Yang · Rasha Karakchi | IDETC-CIE presentation |
-| [High-Rate State Estimation of a Printed Circuit Board Under Shock Using an FPGA-Deployed Neural Network](posters/trotter_smasis_high-rate-state-estimation_2026.pdf) | Trotter Roberts · Joud N. Satme · Tiffany Yu · Austin R. J. Downey · Rasha E. Karakchi · Jason D. Bakos | SMASIS paper |
+| [Lightweight Multimodal Fusion for Real-Time Cybersecurity of Optical and Thermal In-Situ Monitoring Signals in Metal Additive Manufacturing](posters/nishant_idetc-cie_multimodal-fusion_2026.pdf) | Nishant Chinnasami · Rye Stahle-Smith · Zaki Bushiri · Rasha Karakchi | IDETC-CIE paper |
+| [Lightweight Multimodal Fusion for Real-Time Cybersecurity of Optical and Thermal In-Situ Monitoring Signals in Metal Additive Manufacturing](posters/nishant_research-poster_multimodal-fusion_2026.pdf) | Nishant Chinnasami · Rye Stahle-Smith · Zaki Bushiri · Rasha Karakchi | IDETC-CIE presentation |
+| [High-Rate State Estimation of a Printed Circuit Board Under Shock Using an FPGA-Deployed Neural Network](posters/high-rate-pcb-state-estimation_2026.pdf) | Tiffany Yu · Rasha E. Karakchi | SMASIS paper |
 | [Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams](posters/carter_research-poster_fpga-trojan-localization_2026.pdf) | Carter Antley · Rasha Karakchi | SC26 poster |
 | [Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams](posters/carter_research-paper_fpga-trojan-localization_2026.pdf) | Carter Antley · Rasha Karakchi | SC26 paper |
 | [EdgeBench: Lightweight Preprocessing and Streaming Ingestion](posters/vito_sc26_2026.pdf) | Vito Spatafora | SC26 poster |
 | [EdgeBench: A Lightweight Preprocessing and Streaming Ingestion Framework for Edge AI Pipelines](posters/VitoPaper.pdf) | Vito Spatafora | SC26 paper |
-| [Performance and Resource Analysis of MLP Forward Pass on LabVIEW FPGA](posters/tiffany_labview-fpga_summer-symposium_2026.pdf) | Tiffany Yu · Rasha Karakchi · Austin R. J. Downey · Joud Satme · Trotter Roberts | UofSC Summer Symposium |
+| [Performance and Resource Analysis of MLP Forward Pass on LabVIEW FPGA](posters/tiffany_labview-fpga_summer-symposium_2026.pdf) | Tiffany Yu · Rasha Karakchi | UofSC Summer Symposium |
 </details>
 
 <details>
@@ -63,11 +63,13 @@ Browse by year. Select any title to open the full PDF.
 </details>
 
 <details>
-<summary><strong>2023</strong> · 1 work</summary>
+<summary><strong>2023</strong> · 3 works</summary>
 
-| Work | Contributor | Venue |
+| Work | Contributors | Venue |
 | --- | --- | --- |
 | [Introduction to Neural Networks: Digit Recognition](posters/noah_mcnair_2023.pdf) | Noah Robertson | McNair Junior Fellows |
+| [A Partially Reconfigurable Preprocessing Layer to Mitigate CNN Complexity](posters/rasha_noah_partially-reconfigurable-cnn_2023.pdf) | Rasha Karakchi · Noah Robertson | Paper |
+| [Towards a Scalable Spiking Neural Network](posters/rasha_jacob_scalable-snn_2023.pdf) | Rasha Karakchi · Jacob Frierson | Paper |
 </details>
 
 ## Collaborate with us
