@@ -17,15 +17,14 @@ This page highlights the students, researchers, and faculty represented in the K
 | <img src="https://unavatar.io/linkedin/vito-spatafora" alt="Vito Spatafora" width="96" height="96"> | **Vito Spatafora** | Edge AI systems | EdgeBench preprocessing and streaming ingestion | [Profile](https://www.linkedin.com/in/vito-spatafora) |
 | <img src="https://unavatar.io/linkedin/zakibushiri" alt="Zaki Bushiri" width="96" height="96"> | **Zaki Bushiri** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/zakibushiri) |
 | <img src="https://unavatar.io/linkedin/mumin-adhami" alt="Mumin Adhami" width="96" height="96"> | **Mumin Adhami** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/mumin-adhami) |
-| <img src="https://unavatar.io/linkedin/layuan" alt="Lang Yuan" width="96" height="96"> | **Lang Yuan** *(listed as “Lang Yang/Yuang” on some materials)* | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/layuan) |
-| — | **Jason D. Bakos** | Computer architecture | High-rate PCB state estimation | — |
+
 
 ## Faculty and research leadership
 
 | Photo | Person | Role | Research represented | LinkedIn |
 | --- | --- | --- | --- | --- |
 | <img src="people/rasha-karakchi-usc-faculty.jpg" alt="Rasha Karakchi" width="120"> | **Rasha Elham Karakchi** | Faculty lead · Karakchi Research | Hardware security, intelligent systems, FPGA acceleration, cryptography | [USC faculty profile](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php) |
-| <img src="people/austin-downey-usc-faculty.jpg" alt="Austin Downey" width="120"> | **Austin R. J. Downey** | Faculty collaborator · ARTS Lab | FPGA systems, real-time sensing, neural acceleration, hardware/software co-design | [USC faculty profile](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/austin_downey.php) |
+
 
 Faculty photos are official USC images; student photos are displayed through public LinkedIn profile avatars. Student photos use a consistent 96 × 96 size, while faculty portraits preserve their original proportions.
 
