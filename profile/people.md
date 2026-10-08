@@ -1,5 +1,7 @@
 <h1>Research people</h1>
 
+This page highlights the students, researchers, and faculty represented in the Karakchi Research publication and poster library. Names and project links are taken from the associated research materials; LinkedIn links are included only where the public profile could be confidently matched.
+
 ## Research contributors
 
 | Photo | Person | Focus | Research represented | LinkedIn |
@@ -16,6 +18,7 @@
 | <img src="https://unavatar.io/linkedin/jacob-frierson-194139399" alt="Jacob Frierson" width="96" height="96"> | **Jacob Frierson** | Neural Network | Reconfigurable Computing | [Profile](https://www.linkedin.com/in/jacob-frierson-194139399/) |
 | — | **Malachi Hill** | Research contributor | Summer research team | — |
 | — | **Isaiah Impson** | Research contributor | Summer research team | — |
+| <img src="https://unavatar.io/linkedin/pierson-roby-mayner" alt="Pierson Roby Mayner" width="96" height="96"> | **Pierson Roby Mayner** | Research contributor | Karakchi Research team | [Profile](https://www.linkedin.com/in/pierson-roby-mayner) |
 
 ## Faculty and research leadership
 
