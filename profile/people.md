@@ -1,7 +1,5 @@
 <h1>Research people</h1>
 
-This page highlights the students, researchers, and faculty represented in the Karakchi Research publication and poster library. Names and project links are taken from the associated research materials; LinkedIn links are included only where the public profile could be confidently matched.
-
 ## Research contributors
 
 | Photo | Person | Focus | Research represented | LinkedIn |
@@ -22,9 +20,6 @@ This page highlights the students, researchers, and faculty represented in the K
 | Photo | Person | Role | Research represented | LinkedIn |
 | --- | --- | --- | --- | --- |
 | <img src="people/rasha-karakchi-usc-faculty.jpg" alt="Rasha Karakchi" width="120"> | **Rasha Elham Karakchi** | Faculty lead · Karakchi Research | Hardware security, intelligent systems, FPGA acceleration, cryptography | [USC faculty profile](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php) |
-
-
-Faculty photos are official USC images; student photos are displayed through public LinkedIn profile avatars. Student photos use a consistent 96 × 96 size, while faculty portraits preserve their original proportions.
 
 ## Browse their work
 
