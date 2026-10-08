@@ -14,7 +14,7 @@ This page highlights the students, researchers, and faculty represented in the K
 | <img src="https://unavatar.io/linkedin/noah-robertson-330331211" alt="Noah Robertson" width="96" height="96"> | **Noah Robertson** | Machine learning | Neural-network digit recognition | [Profile](https://www.linkedin.com/in/noah-robertson-330331211) |
 | <img src="https://unavatar.io/linkedin/vito-spatafora" alt="Vito Spatafora" width="96" height="96"> | **Vito Spatafora** | Edge AI systems | EdgeBench preprocessing and streaming ingestion | [Profile](https://www.linkedin.com/in/vito-spatafora) |
 | <img src="https://unavatar.io/linkedin/zakibushiri" alt="Zaki Bushiri" width="96" height="96"> | **Zaki Bushiri** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/zakibushiri) |
-| <img src="https://unavatar.io/linkedin/mumin-adhami" alt="Mumin Adhami" width="96" height="96"> | **Mumin Adhami** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/mumin-adhami) |
+
 
 
 ## Faculty and research leadership
