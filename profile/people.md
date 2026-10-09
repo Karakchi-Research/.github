@@ -16,9 +16,11 @@ This page highlights the students, researchers, and faculty represented in the K
 | <img src="https://unavatar.io/linkedin/zakibushiri" alt="Zaki Bushiri" width="96" height="96"> | **Zaki Bushiri** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/zakibushiri) |
 | <img src="https://unavatar.io/linkedin/ledarssan" alt="Darssan L. Eswaramoorthi" width="96" height="96"> | **Darssan L. Eswaramoorthi** | Artificial Intelligence | Reconfigurable Computing | [Profile](https://www.linkedin.com/in/ledarssan/) |
 | <img src="https://unavatar.io/linkedin/jacob-frierson-194139399" alt="Jacob Frierson" width="96" height="96"> | **Jacob Frierson** | Neural Network | Reconfigurable Computing | [Profile](https://www.linkedin.com/in/jacob-frierson-194139399/) |
-| <img src="https://unavatar.io/linkedin/malachi-hill-360a87380" alt="Malachi Hill" width="96" height="96"> | **Malachi Hill** | Research contributor | Summer research team | [Profile](https://www.linkedin.com/in/malachi-hill-360a87380) |
-| <img src="https://unavatar.io/linkedin/isaiah-i26" alt="Isaiah Impson" width="96" height="96"> | **Isaiah Impson** | Research contributor | Summer research team | [Profile](https://www.linkedin.com/in/isaiah-i26/) |
+| <img src="https://unavatar.io/linkedin/malachi-hill-360a87380" alt="Malachi Hill" width="96" height="96"> | **Malachi Hill** | Computer Engineering | Summer research team 2026 | [Profile](https://www.linkedin.com/in/malachi-hill-360a87380) |
+| <img src="https://unavatar.io/linkedin/isaiah-i26" alt="Isaiah Impson" width="96" height="96"> | **Isaiah Impson** | Computer Science | Summer research team 2026 | [Profile](https://www.linkedin.com/in/isaiah-i26/) |
 | <img src="https://unavatar.io/linkedin/pierson-roby-mayner" alt="Pierson Roby Mayner" width="96" height="96"> | **Pierson Roby Mayner** | Research contributor | Karakchi Research team | [Profile](https://www.linkedin.com/in/pierson-roby-mayner) |
+| <img src="https://unavatar.io/linkedin/Dejuan Carson" alt="Dejuan Carson" width="96" height="96"> | **Dejuan Carson** | Computer Security | Karakchi Research team 2025 | [Profile](https://www.linkedin.com/in/de%E2%80%99juan-carson-9a5ba82b6/?isSelfProfile=false) |
+
 
 ## Faculty and research leadership
 
