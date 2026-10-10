@@ -51,7 +51,7 @@ Browse by year. Select any title to open the full PDF.
 </details>
 
 <details>
-<summary><strong>2024</strong> · 5 works</summary>
+<summary><strong>2024</strong> · 7 works</summary>
 
 | Work | Contributors | Venue / format |
 | --- | --- | --- |
@@ -60,16 +60,16 @@ Browse by year. Select any title to open the full PDF.
 | [Developing a Self-Explanatory Transformer](posters/ryan_sec_self-explanatory-transformer_2024.pdf) | Rasha Karakchi · Ryan Karbowniczak | SEC |
 | [A Hierarchical BRAM/URAM Buffer for SNN](posters/rasha_icmi_hierarchical-bram-uram-buffer-snn_2024.pdf) | Rasha Karakchi | ICMI |
 | [A Scratchpad Spiking Neural Network Accelerator](posters/rasha_icmi_scratchpad-snn-accelerator_2024.pdf) | Rasha Karakchi | ICMI |
+| [A Partially Reconfigurable Preprocessing Layer to Mitigate CNN Complexity](posters/rasha_noah_partially-reconfigurable-cnn_2024.pdf) | Rasha Karakchi · Noah Robertson | Paper |
+| [Towards a Scalable Spiking Neural Network](posters/rasha_jacob_scalable-snn_2024.pdf) | Rasha Karakchi · Jacob Frierson | Paper |
 </details>
 
 <details>
-<summary><strong>2023</strong> · 3 works</summary>
+<summary><strong>2023</strong> · 1 work</summary>
 
 | Work | Contributors | Venue |
 | --- | --- | --- |
 | [Introduction to Neural Networks: Digit Recognition](posters/noah_mcnair_2023.pdf) | Noah Robertson | McNair Junior Fellows |
-| [A Partially Reconfigurable Preprocessing Layer to Mitigate CNN Complexity](posters/rasha_noah_partially-reconfigurable-cnn_2023.pdf) | Rasha Karakchi · Noah Robertson | Paper |
-| [Towards a Scalable Spiking Neural Network](posters/rasha_jacob_scalable-snn_2023.pdf) | Rasha Karakchi · Jacob Frierson | Paper |
 </details>
 
 ## Collaborate with us
