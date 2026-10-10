@@ -20,7 +20,7 @@ This page highlights the students, researchers, and faculty represented in the K
 | <img src="https://unavatar.io/linkedin/isaiah-i26" alt="Isaiah Impson" width="96" height="96"> | **Isaiah Impson** | Computer Science | Summer research team 2026 | [Profile](https://www.linkedin.com/in/isaiah-i26/) |
 | <img src="https://unavatar.io/linkedin/pierson-roby-mayner" alt="Pierson Roby Mayner" width="96" height="96"> | **Pierson Roby Mayner** | Research contributor | Karakchi Research team | [Profile](https://www.linkedin.com/in/pierson-roby-mayner) |
 | <img src="https://unavatar.io/linkedin/de%E2%80%99juan-carson-9a5ba82b6" alt="Dejuan Carson" width="96" height="96"> | **Dejuan Carson** | Computer Security | Karakchi Research team 2025 | [Profile](https://www.linkedin.com/in/de%E2%80%99juan-carson-9a5ba82b6/) |
-| — | **Abaan Jafri** | Research contributor | Karakchi Research team | [Profile](https://www.linkedin.com/in/abaan-jafri) |
+| <img src="https://media.licdn.com/dms/image/v2/D4E03AQF8GgN_dnEeOA/profile-displayphoto-crop_800_800/B4EZnAJXZ6KUAI-/0/1759865305069?e=1793232000&amp;v=beta&amp;t=d4nlntILFLwJs5mHn2x4-ir0swFF0Hkj7UDO8r__2yM" alt="Abaan Jafri" width="96" height="96"> | **Abaan Jafri** | Research contributor | Karakchi Research team | [Profile](https://www.linkedin.com/in/abaan-jafri) |
 
 
 ## Faculty and research leadership
