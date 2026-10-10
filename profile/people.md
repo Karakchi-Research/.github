@@ -10,7 +10,7 @@
 | <img src="https://unavatar.io/linkedin/zakibushiri" alt="Zaki Bushiri" width="96" height="96"> | **Zaki Bushiri** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/zakibushiri) |
 | <img src="https://unavatar.io/linkedin/pierson-roby-mayner" alt="Pierson Roby Mayner" width="96" height="96"> | **Pierson Roby Mayner** | Research contributor | Karakchi Research team | [Profile](https://www.linkedin.com/in/pierson-roby-mayner) |
 | <img src="https://media.licdn.com/dms/image/v2/D4E03AQF8GgN_dnEeOA/profile-displayphoto-crop_800_800/B4EZnAJXZ6KUAI-/0/1759865305069?e=1793232000&amp;v=beta&amp;t=d4nlntILFLwJs5mHn2x4-ir0swFF0Hkj7UDO8r__2yM" alt="Abaan Jafri" width="96" height="96"> | **Abaan Jafri** | Research contributor | Karakchi Research team | [Profile](https://www.linkedin.com/in/abaan-jafri) |
-## Former Students
+Former Researchers
 | <img src="https://unavatar.io/linkedin/ryan-karbowniczak-2b6158224" alt="Ryan Karbowniczak" width="96" height="96"> | **Ryan Karbowniczak** | Intelligent systems · accelerators | Scored NFA processing and self-explanatory transformer research | [Profile](https://www.linkedin.com/in/ryan-karbowniczak-2b6158224) |
 | <img src="https://unavatar.io/linkedin/noah-robertson-330331211" alt="Noah Robertson" width="96" height="96"> | **Noah Robertson** | Machine learning | Neural-network digit recognition | [Profile](https://www.linkedin.com/in/noah-robertson-330331211) |
 | <img src="https://unavatar.io/linkedin/vito-spatafora" alt="Vito Spatafora" width="96" height="96"> | **Vito Spatafora** | Edge AI systems | EdgeBench preprocessing and streaming ingestion | [Profile](https://www.linkedin.com/in/vito-spatafora) |
