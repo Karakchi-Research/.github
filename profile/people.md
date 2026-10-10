@@ -17,7 +17,6 @@ The current-student section highlights the most recent Karakchi Research team me
 | <img src="https://unavatar.io/linkedin/nishantchinnasami" alt="Nishant Chinnasami" width="96" height="96"> | **Nishant Chinnasami** | Cryptography · cyber-physical monitoring | Hybrid cryptographic monitoring, side-channel security, QKD anomaly detection, additive-manufacturing security | [Profile](https://www.linkedin.com/in/nishantchinnasami) |
 | <img src="https://unavatar.io/linkedin/rye-stahle-smith" alt="Rye Stahle-Smith" width="96" height="96"> | **Rye Stahle-Smith** | Embedded security · ML systems | FPGA malware detection, real-time ML defense, hardware acceleration, multimodal monitoring | [Profile](https://www.linkedin.com/in/rye-stahle-smith) |
 | <img src="https://unavatar.io/linkedin/tyu05" alt="Tiffany Yu" width="96" height="96"> | **Tiffany Yu** | Computer science · intelligent hardware | Automata optimization, LabVIEW FPGA, MLP acceleration, computational-hardware security | [Profile](https://www.linkedin.com/in/tyu05) |
-| <img src="people/rasha-karakchi-usc-faculty.jpg" alt="Rasha Karakchi" width="96" height="96"> | **Rasha Elham Karakchi** | Faculty lead | Karakchi Research leadership | [USC faculty profile](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php) |
 
 ## Former students and past research contributors
 
@@ -35,7 +34,7 @@ The current-student section highlights the most recent Karakchi Research team me
 
 | Photo | Person | Role | Research represented | LinkedIn |
 | --- | --- | --- | --- | --- |
-| <img src="people/rasha-karakchi-usc-faculty.jpg" alt="Rasha Karakchi" width="120"> | **Rasha Elham Karakchi** | Faculty lead · Karakchi Research | Hardware security, intelligent systems, FPGA acceleration, cryptography | [USC faculty profile](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php) |
+| <img src="people/rasha-karakchi-usc-faculty.jpg" alt="Rasha Karakchi" width="120"> | **Rasha Elham Karakchi** | Faculty advisor · Karakchi Research | Hardware security, intelligent systems, FPGA acceleration, cryptography | [USC faculty profile](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php) |
 
 ## Browse their work
 
