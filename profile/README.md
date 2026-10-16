@@ -23,7 +23,7 @@ Browse by year. Select any title to open the full PDF.
 
 | Work | Contributors | Venue / format |
 | --- | --- | --- |
-| [BASE: A Reusable Streaming Preprocessing Accelerator for Heterogeneous FPGA Systems](posters/Base.pdf) | Rye Stahle-Smith · Carter Antly · Jason Bakos . Rasha Karakchi | H2RC paper |
+| [BASE: A Reusable Streaming Preprocessing Accelerator for Heterogeneous FPGA Systems](posters/Base.pdf) | Rye Stahle-Smith · Carter Antly · Jason Bakos . Rasha Karakchi | H2RC_SC26 |
 | [Lightweight Multimodal Fusion for Real-Time Cybersecurity of Optical and Thermal In-Situ Monitoring Signals in Metal Additive Manufacturing](posters/nishant_idetc-cie_multimodal-fusion_2026.pdf) | Nishant Chinnasami · Rye Stahle-Smith · Zaki Bushiri · Rasha Karakchi | IDETC-CIE paper |
 | [Lightweight Multimodal Fusion for Real-Time Cybersecurity of Optical and Thermal In-Situ Monitoring Signals in Metal Additive Manufacturing](posters/nishant_research-poster_multimodal-fusion_2026.pdf) | Nishant Chinnasami · Rye Stahle-Smith · Zaki Bushiri · Rasha Karakchi | IDETC-CIE presentation |
 | [High-Rate State Estimation of a Printed Circuit Board Under Shock Using an FPGA-Deployed Neural Network](posters/high-rate-pcb-state-estimation_2026.pdf) | Tiffany Yu · Rasha E. Karakchi | SMASIS paper |
