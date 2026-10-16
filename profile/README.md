@@ -19,7 +19,7 @@
 Browse by year. Select any title to open the full PDF.
 
 <details open>
-<summary><strong>2026</strong> · 9 works</summary>
+<summary><strong>2026</strong> · 10 works</summary>
 
 | Work | Contributors | Venue / format |
 | --- | --- | --- |
@@ -32,6 +32,8 @@ Browse by year. Select any title to open the full PDF.
 | [EdgeBench: Lightweight Preprocessing and Streaming Ingestion](posters/vito_sc26_2026.pdf) | Vito Spatafora | SC26 poster |
 | [EdgeBench: A Lightweight Preprocessing and Streaming Ingestion Framework for Edge AI Pipelines](posters/VitoPaper.pdf) | Vito Spatafora | SC26 paper |
 | [Performance and Resource Analysis of MLP Forward Pass on LabVIEW FPGA](posters/tiffany_labview-fpga_summer-symposium_2026.pdf) | Tiffany Yu · Rasha Karakchi | UofSC Summer Symposium |
+| [Anomaly Detection in BB84 Quantum Key Distribution](posters/nishant_26.pdf) | Nishant Chinnasami · Rasha Karakchi | UofSC Summer Symposium |
+
 </details>
 
 <details>
@@ -66,12 +68,12 @@ Browse by year. Select any title to open the full PDF.
 </details>
 
 <details>
-<summary><strong>2023</strong> · 1 work</summary>
+<summary><strong>2023</strong> · 2 work</summary>
 
 | Work | Contributors | Venue |
 | --- | --- | --- |
-| [Introduction to Neural Networks: Digit Recognition](posters/noah_mcnair_2023.pdf) | Noah Robertson | Summer Research Symposium_USC |
-| [Towards a Scalable Spiking Neural Network](posters/rasha_jacob_scalable-snn_2024.pdf) | Jacob Frierson | Summer Research Symposium_USC |
+| [Introduction to Neural Networks: Digit Recognition](posters/noah_mcnair_2023.pdf) | Noah Robertson | UofSC-Summer Research Symposium |
+| [Towards a Scalable Spiking Neural Network](posters/rasha_jacob_scalable-snn_2024.pdf) | Jacob Frierson | UofSC-Summer Research Symposium |
 
 </details>
 
