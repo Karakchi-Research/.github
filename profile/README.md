@@ -63,8 +63,8 @@ Browse by year. Select any title to open the full PDF.
 | [Developing a Self-Explanatory Transformer](posters/ryan_sec_self-explanatory-transformer_2024.pdf) | Rasha Karakchi · Ryan Karbowniczak | SEC |
 | [A Hierarchical BRAM/URAM Buffer for SNN](posters/rasha_icmi_hierarchical-bram-uram-buffer-snn_2024.pdf) | Rasha Karakchi | ICMI |
 | [A Scratchpad Spiking Neural Network Accelerator](posters/rasha_icmi_scratchpad-snn-accelerator_2024.pdf) | Rasha Karakchi | ICMI |
-| [A Partially Reconfigurable Preprocessing Layer to Mitigate CNN Complexity](posters/rasha_noah_partially-reconfigurable-cnn_2024.pdf) | Rasha Karakchi · Noah Robertson | Paper |
-| [Towards a Scalable Spiking Neural Network](posters/rasha_jacob_scalable-snn_2024.pdf) | Rasha Karakchi · Jacob Frierson | Paper |
+| [A Partially Reconfigurable Preprocessing Layer to Mitigate CNN Complexity](posters/rasha_noah_partially-reconfigurable-cnn_2024.pdf) | Rasha Karakchi · Noah Robertson | ACR24 |
+| [Towards a Scalable Spiking Neural Network](posters/rasha_jacob_scalable-snn_2024.pdf) | Rasha Karakchi · Jacob Frierson | ACR24 |
 </details>
 
 <details>
