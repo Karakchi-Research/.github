@@ -70,7 +70,9 @@ Browse by year. Select any title to open the full PDF.
 
 | Work | Contributors | Venue |
 | --- | --- | --- |
-| [Introduction to Neural Networks: Digit Recognition](posters/noah_mcnair_2023.pdf) | Noah Robertson | McNair Junior Fellows |
+| [Introduction to Neural Networks: Digit Recognition](posters/noah_mcnair_2023.pdf) | Noah Robertson | Summer Research Symposium_USC |
+| [Towards a Scalable Spiking Neural Network](posters/rasha_jacob_scalable-snn_2024.pdf) | Jacob Frierson | Summer Research Symposium_USC |
+
 </details>
 
 ## Collaborate with us
