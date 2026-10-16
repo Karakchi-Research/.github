@@ -19,7 +19,7 @@
 Browse by year. Select any title to open the full PDF.
 
 <details open>
-<summary><strong>2026</strong> · 8 works</summary>
+<summary><strong>2026</strong> · 9 works</summary>
 
 | Work | Contributors | Venue / format |
 | --- | --- | --- |
