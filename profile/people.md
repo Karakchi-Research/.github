@@ -30,7 +30,7 @@ The current-student section highlights the most recent Karakchi Research team me
 | <img src="https://unavatar.io/linkedin/ledarssan" alt="Darssan L. Eswaramoorthi" width="96" height="96"> | **Darssan L. Eswaramoorthi** | Artificial Intelligence | Reconfigurable Computing | [Profile](https://www.linkedin.com/in/ledarssan/) |
 | <img src="https://unavatar.io/linkedin/jacob-frierson-194139399" alt="Jacob Frierson" width="96" height="96"> | **Jacob Frierson** | Neural Network | Reconfigurable Computing | [Profile](https://www.linkedin.com/in/jacob-frierson-194139399/) |
 | <img src="https://unavatar.io/linkedin/de%E2%80%99juan-carson-9a5ba82b6" alt="Dejuan Carson" width="96" height="96"> | **Dejuan Carson** | Computer Security | Karakchi Research team 2025 | [Profile](https://www.linkedin.com/in/de%E2%80%99juan-carson-9a5ba82b6/) |
-| <img src="https://unavatar.io/linkedin/in/philipchowe/" alt="Philip Howe" width="96" height="96"> | **Philip Howe** | Computer Hardware | Karakchi Research team 2025 | [Profile]([https://www.linkedin.com/in/de%E2%80%99juan-carson-9a5ba82b6/](https://www.linkedin.com/in/philipchowe/)) |
+| <img src="https://unavatar.io/linkedin/in/philipchowe/" alt="Philip Howe" width="96" height="96"> | **Philip Howe** | Computer Hardware | Karakchi Research team 2025 | [Profile]([https://www.linkedin.com/in/philipchowe/)) |
 
 
 ## Faculty and research leadership
