@@ -1,7 +1,4 @@
 <h1>Research people</h1>
-
-This page highlights the students, researchers, and faculty represented in the Karakchi Research publication and poster library. Names and project links are taken from the associated research materials; LinkedIn links are included only where the public profile could be confidently matched.
-
 ## Current students and research team
 
 The current-student section highlights the most recent Karakchi Research team members and summer researchers.
