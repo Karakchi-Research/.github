@@ -29,8 +29,6 @@ Browse submitted works by year. Select any title to open the full PDF.
 | [High-Rate State Estimation of a Printed Circuit Board Under Shock Using an FPGA-Deployed Neural Network](posters/high-rate-pcb-state-estimation_2026.pdf) | Tiffany Yu · Rasha E. Karakchi | SMASIS paper |
 | [Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams](posters/carter_research-poster_fpga-trojan-localization_2026.pdf) | Carter Antley · Rasha Karakchi | SC26 poster |
 | [Toward Trustworthy FPGA Trojan Localization from Configuration Bitstreams](posters/carter_research-paper_fpga-trojan-localization_2026.pdf) | Carter Antley · Rasha Karakchi | SC26 paper |
-| [EdgeBench: Lightweight Preprocessing and Streaming Ingestion](posters/vito_sc26_2026.pdf) | Vito Spatafora | SC26 poster |
-| [EdgeBench: A Lightweight Preprocessing and Streaming Ingestion Framework for Edge AI Pipelines](posters/VitoPaper.pdf) | Vito Spatafora | SC26 paper |
 | [Performance and Resource Analysis of MLP Forward Pass on LabVIEW FPGA](posters/tiffany_labview-fpga_summer-symposium_2026.pdf) | Tiffany Yu · Rasha Karakchi | UofSC Summer Symposium |
 | [Anomaly Detection in BB84 Quantum Key Distribution](posters/nishant_26.pdf) | Nishant Chinnasami · Rasha Karakchi | UofSC Summer Symposium |
 
