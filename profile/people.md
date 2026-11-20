@@ -11,8 +11,8 @@ The current-student section highlights the most recent Karakchi Research team me
 | <img src="https://unavatar.io/linkedin/rye-stahle-smith" alt="Rye Stahle-Smith" width="96" height="96"> | **Rye Stahle-Smith** | Embedded security · ML systems | FPGA malware detection, real-time ML defense, hardware acceleration, multimodal monitoring | [Profile](https://www.linkedin.com/in/rye-stahle-smith) |
 | <img src="https://unavatar.io/linkedin/carter-antley" alt="Carter Antley" width="96" height="96"> | **Carter Antley** | Hardware security | Trustworthy FPGA Trojan localization from configuration bitstreams | [Profile](https://www.linkedin.com/in/carter-antley) |
 | <img src="https://unavatar.io/linkedin/zakibushiri" alt="Zaki Bushiri" width="96" height="96"> | **Zaki Bushiri** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/zakibushiri) |
-| <img src="https://unavatar.io/linkedin/pierson-roby-mayner" alt="Pierson Roby Mayner" width="96" height="96"> | **Pierson Roby Mayner** | Research contributor | Karakchi Research team | [Profile](https://www.linkedin.com/in/pierson-roby-mayner) |
-| <img src="https://unavatar.io/linkedin/abaan0jafri" alt="Abaan Jafri" width="96" height="96"> | **Abaan Jafri** | Research contributor | Karakchi Research team | [Profile](https://www.linkedin.com/in/abaan-jafri) |
+| <img src="https://unavatar.io/linkedin/pierson-roby-mayner" alt="Pierson Roby Mayner" width="96" height="96"> | **Pierson Roby Mayner** | Computer Engineering | Secure Reconfigurable Systems | [Profile](https://www.linkedin.com/in/pierson-roby-mayner) |
+| <img src="https://unavatar.io/linkedin/abaan0jafri" alt="Abaan Jafri" width="96" height="96"> | **Abaan Jafri** | Computer Science | AI Adaptation | [Profile](https://www.linkedin.com/in/abaan-jafri) |
 
 
 
