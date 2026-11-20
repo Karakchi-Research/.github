@@ -5,7 +5,7 @@ The current-student section highlights the most recent Karakchi Research team me
 
 | Photo | Person | Focus | Research represented | LinkedIn |
 | --- | --- | --- | --- | --- |
-| <img src="https://unavatar.io/linkedin/in/trace-shannon-4004851b2" alt="Trace Shannon" width="96" height="96"> | **Trace Shannon** | Computer Engineering · intelligent hardware | Embedded Systems| [Profile](https://www.linkedin.com/in/trace-shannon-4004851b2/) |
+| <img src="https://unavatar.io/linkedin/trace-shannon-4004851b2" alt="Trace Shannon" width="96" height="96"> | **Trace Shannon** | Computer Engineering · intelligent hardware | Embedded Systems| [Profile](https://www.linkedin.com/in/trace-shannon-4004851b2/) |
 | <img src="https://unavatar.io/linkedin/tyu05" alt="Tiffany Yu" width="96" height="96"> | **Tiffany Yu** | Computer science · intelligent hardware | Automata optimization, LabVIEW FPGA, MLP acceleration, computational-hardware security | [Profile](https://www.linkedin.com/in/tyu05) |
 | <img src="https://unavatar.io/linkedin/nishantchinnasami" alt="Nishant Chinnasami" width="96" height="96"> | **Nishant Chinnasami** | Cryptography · cyber-physical monitoring | Hybrid cryptographic monitoring, side-channel security, QKD anomaly detection, additive-manufacturing security | [Profile](https://www.linkedin.com/in/nishantchinnasami) |
 | <img src="https://unavatar.io/linkedin/rye-stahle-smith" alt="Rye Stahle-Smith" width="96" height="96"> | **Rye Stahle-Smith** | Embedded security · ML systems | FPGA malware detection, real-time ML defense, hardware acceleration, multimodal monitoring | [Profile](https://www.linkedin.com/in/rye-stahle-smith) |
