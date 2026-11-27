@@ -1,10 +1,22 @@
 <h1 align="center">Karakchi Research</h1>
 
-<p align="center"><strong>Hardware Security · Adaptive and Resilient Computing · Intelligent Cyber-Physical Systems</strong><br>University of South Carolina</p>
+<p align="center">
+  <strong>Hardware Security · Adaptive and Resilient Computing · Intelligent Cyber-Physical Systems</strong><br>
+  University of South Carolina
+</p>
 
-<p align="center"><a href="#research-library">Research library</a> · <a href="people.md">Research people</a> · <a href="https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php">Dr. Karakchi’s USC profile</a> · <a href="mailto:karakchi@cec.sc.edu">Collaborate with us</a></p>
+<h2 align="center"><a href="people.md">Meet Our Team →</a></h2>
 
-> Student-driven research securing hardware, advancing adaptive computing, and bringing intelligence to cyber-physical systems.
+<p align="center">
+  <a href="#research-library">Research library</a> ·
+  <a href="https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php">Dr. Karakchi’s USC profile</a> ·
+  <a href="mailto:karakchi@cec.sc.edu">Collaborate with us</a>
+</p>
+
+<blockquote>
+  Student-driven research securing hardware, advancing adaptive computing,
+  and bringing intelligence to cyber-physical systems.
+</blockquote>
 
 ## Research focus
 
