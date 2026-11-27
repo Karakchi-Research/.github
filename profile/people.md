@@ -13,6 +13,7 @@ The current-student section highlights the most recent Karakchi Research team me
 | <img src="https://unavatar.io/linkedin/zakibushiri" alt="Zaki Bushiri" width="96" height="96"> | **Zaki Bushiri** | Secure intelligent systems | Multimodal monitoring for additive manufacturing | [Profile](https://www.linkedin.com/in/zakibushiri) |
 | <img src="https://unavatar.io/linkedin/pierson-roby-mayner" alt="Pierson Roby Mayner" width="96" height="96"> | **Pierson Roby Mayner** | Computer Engineering | Secure Reconfigurable Systems | [Profile](https://www.linkedin.com/in/pierson-roby-mayner) |
 | <img src="https://unavatar.io/linkedin/abaan0jafri" alt="Abaan Jafri" width="96" height="96"> | **Abaan Jafri** | Computer Science | AI Adaptation | [Profile](https://www.linkedin.com/in/abaan-jafri) |
+| <img src="https://unavatar.io/linkedin/robert-albetel-1b591b322" alt="Robert Albetel" width="96" height="96"> | **Robert Albetel** | Computer Science | Manufacturing Sensing | [Profile](https://www.linkedin.com/in/robert-albetel-1b591b322) |
 
 
 
