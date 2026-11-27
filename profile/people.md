@@ -34,9 +34,9 @@ The current-student section highlights the most recent Karakchi Research team me
 
 ## Faculty and research leadership
 
-| Photo | Person | Role | Research represented | LinkedIn |
+| Photo | Person | Role | Research represented | 
 | --- | --- | --- | --- | --- |
-| <img src="people/rasha-karakchi-usc-faculty.jpg" alt="Rasha Karakchi" width="120"> | **Rasha Elham Karakchi** | Faculty advisor · Karakchi Research | [USC faculty profile](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php) | https://www.linkedin.com/in/rasha-karakchi-417756162/
+| <img src="people/rasha-karakchi-usc-faculty.jpg" alt="Rasha Karakchi" width="120"> | **Rasha Elham Karakchi** | Faculty advisor · Karakchi Research | [USC faculty profile](https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php) 
 
 ## Browse their work
 
