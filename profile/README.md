@@ -5,7 +5,7 @@
   University of South Carolina
 </p>
 
-<h2 align="center"><a href="people.md">Meet Our Team →</a></h2>
+<h2 align="center"><a href="people.md">Meet Our Team </a></h2>
 
 <p align="center">
   <a href="#research-library">Research library</a> ·
