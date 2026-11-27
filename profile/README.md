@@ -1,3 +1,9 @@
+<h1 align="center">Karakchi Research</h1>
+
+<p align="center">
+  <strong>Hardware Security · Adaptive and Resilient Computing · Intelligent Cyber-Physical Systems</strong><br>
+  University of South Carolina
+</p>
 <p align="center">
   <strong><a href="people.md">👥 Meet the Researchers</a></strong> ·
   <a href="#research-library">Research Library</a> ·
