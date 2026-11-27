@@ -5,7 +5,7 @@
   University of South Carolina
 </p>
 <p align="center">
-  <strong><a href="people.md">👥 Meet the Researchers</a></strong> ·
+  <strong><a href="people.md">👥 Meet Our Team</a></strong> ·
   <a href="#research-library">Research Library</a> ·
   <a href="https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php">Dr. Karakchi’s USC Profile</a> ·
   <a href="mailto:karakchi@cec.sc.edu">Collaborate with Us</a>
