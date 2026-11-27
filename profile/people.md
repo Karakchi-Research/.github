@@ -36,7 +36,7 @@ The current-student section highlights the most recent Karakchi Research team me
 
 | Photo | Person | Role | Research Areas |
 | --- | --- | --- | --- |
-| <img src="people/rasha-karakchi-usc-faculty.jpg" alt="Rasha Karakchi" width="120"> | **Rasha Elham Karakchi** | Faculty Advisor · Karakchi Research | Hardware Security, Adaptive and Resilient Computing, Intelligent Cyber-Physical Systems |
+| <img src="people/rasha-karakchi-usc-faculty.jpg" alt="Rasha Karakchi" width="120"> | **Rasha Elham Karakchi** | Faculty Advisor · Karakchi Research | Secure and reliable hardware, embedded intelligence, and adaptive computing for industrial and autonomous systems. |
 
 ## Browse their work
 
