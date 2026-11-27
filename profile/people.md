@@ -1,7 +1,7 @@
 <h1>Research people</h1>
 ## Current students and research team
 
-The current-student section highlights the most recent Karakchi Research team members and summer researchers.
+The current-student section highlights the most recent Karakchi Research team members.
 
 | Photo | Person | Focus | Research represented | LinkedIn |
 | --- | --- | --- | --- | --- |
