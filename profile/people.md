@@ -34,9 +34,10 @@ The current-student section highlights the most recent Karakchi Research team me
 
 ## Faculty and research leadership
 
-| Photo | Person | Role | Research represented | 
-| --- | --- | --- | --- | --- |
-| <img src="people/rasha-karakchi-usc-faculty.jpg" alt="Rasha Karakchi" width="120"> | **Rasha Elham Karakchi** | Faculty advisor · Karakchi Research | Hardware security, intelligent systems, FPGA acceleration, cryptography | 
+| Photo | Person | Role | Research Areas |
+| --- | --- | --- | --- |
+| <img src="people/rasha-karakchi-usc-faculty.jpg" alt="Rasha Karakchi" width="120"> | **Rasha Elham Karakchi** | Faculty Advisor · Karakchi Research | Hardware Security, Adaptive and Resilient Computing, Intelligent Cyber-Physical Systems |
+
 ## Browse their work
 
 Return to the [research library](README.md) to browse every poster and paper by year. Each entry opens the complete source PDF.
