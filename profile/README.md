@@ -77,4 +77,4 @@ Browse submitted works by year. Select any title to open the full PDF.
 
 ## Collaborate with us
 
-We welcome student researchers interested in hardware security, machine learning, cryptography, and dependable systems. [Contact Dr. Karakchi](mailto:karakchi@cec.sc.edu).
+Want to build smarter, safer, and more resilient computing systems? Join us to explore hardware security, adaptive computing, and intelligent cyber-physical systems. [Contact Dr. Karakchi](mailto:karakchi@cec.sc.edu).
