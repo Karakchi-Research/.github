@@ -1,6 +1,6 @@
 <h1 align="center">Karakchi Research</h1>
 
-<p align="center"><strong>Hardware Security · Adaptive and Resilient Computing · - Intelligent Cyber-Physical Systems</strong><br>University of South Carolina</p>
+<p align="center"><strong>Hardware Security · Adaptive and Resilient Computing · Intelligent Cyber-Physical Systems</strong><br>University of South Carolina</p>
 
 <p align="center"><a href="#research-library">Research library</a> · <a href="people.md">Research people</a> · <a href="https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php">Dr. Karakchi’s USC profile</a> · <a href="mailto:karakchi@cec.sc.edu">Collaborate with us</a></p>
 
@@ -10,9 +10,9 @@
 
 | Area | Research themes |
 | --- | --- |
-| Hardware & embedded security | FPGA assurance, bitstream integrity, secure boot, side-channel defense |
-| Intelligent systems | Machine learning, anomaly detection, edge AI, SNN accelerators |
-| Cryptography | Secure authentication, QKD monitoring, resilient computation |
+| Hardware security | Embedded system security, side-channel attacks and defenses, hardware Trojan detection, FPGA and bitstream assurance, cryptographic hardware security |
+| Adaptive and Resilient Computing | Adaptive architectures, fault-tolerant systems, hardware acceleration, efficient and dependable computing for autonomous and space applications |
+| Intelligent Cyber-Physical Systems | Embedded AI and machine learning, multimodal sensing and data fusion, real-time monitoring, security and reliability of industrial systems |
 
 ## Research library
 
