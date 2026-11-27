@@ -4,7 +4,7 @@
 
 <p align="center"><a href="#research-library">Research library</a> · <a href="people.md">Research people</a> · <a href="https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/karakchi_rasha.php">Dr. Karakchi’s USC profile</a> · <a href="mailto:karakchi@cec.sc.edu">Collaborate with us</a></p>
 
-> Student-led research in trustworthy embedded systems, FPGA security, intelligent computing, cryptography, and resilient hardware.
+> Student-driven research securing hardware, advancing adaptive computing, and bringing intelligence to cyber-physical systems.
 
 ## Research focus
 
